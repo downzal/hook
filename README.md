@@ -22,14 +22,14 @@ You can install Hook in different ways depending on your workflow:
 3. Profit
 
 ### Rojo (Wally)
-1. Install Hook via Wally (`@downzal/hook`)
+1. Install Hook via Wally (`hook = "downzal/hook@1.0.1"`)
 2. Connect Rojo
 3. Profit
 
 ### TypeScript (roblox-ts)
 1. Install Hook via npm:
    ```bash
-   npm install @rbxts/downzal/hook
+   npm install @downzal/hook
    ```
 2. Profit
 

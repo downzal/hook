@@ -3,9 +3,9 @@
   <h1>Hook</h1>
   <p>Optimized ROBLOX signals for both Luau and TypeScript</p>
 
-  <a href="https://youtube.com"><img src="/hookDocs/npmHook.png" alt="npm" width="125"></a>
+  <a href="https://www.npmjs.com/package/@downzal/hook"><img src="/hookDocs/npmHook.png" alt="npm" width="125"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wally.run/"><img src="/hookDocs/hookWally.png" alt="wally" width="125"></a>
+  <a href="https://wally.run/package/downzal/hook?version=1.0.1"><img src="/hookDocs/hookWally.png" alt="wally" width="125"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="/LICENSE"><img src="/hookDocs/hookLicense.png" alt="license" width="125"></a>
 </div>

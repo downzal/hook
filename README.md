@@ -46,7 +46,7 @@ local onDamage = hook.new()
 onDamage:send(25, somePlayer)
 
 local conn = onDamage:listen(function(amount : number, source : Player)
-  print(string.format("%s took %d damage", amount, source))
+  print(string.format("%s took %d damage", amount, source.Name))
 end)
 
 conn:disconnect()

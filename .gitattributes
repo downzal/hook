@@ -1,0 +1,5 @@
+*.luau linguist-language=Luau
+*.lua linguist-language=Luau
+
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript

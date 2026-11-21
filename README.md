@@ -17,7 +17,7 @@
 You can install Hook in different ways depending on your workflow:
 
 ### Roblox Studio
-1. Download the `.rbxm` file from the [releases tab](../releases)
+1. Download the `.rbxm` file from the [releases tab](https://github.com/downzal/hook/releases)
 2. Drop the file into `ReplicatedStorage` or your desired location
 3. Profit
 

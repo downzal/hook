@@ -12,6 +12,10 @@
 
 <br>
 
+## v1.1.0
+
+Fixed critical bugs, added helpful comments regarding return values, etc. (Luau only as of now, TypeScript being worked on!) 
+
 ## Installation
 
 You can install Hook in different ways depending on your workflow:
